@@ -17,6 +17,15 @@ Smart_Parking_Presentation.pptx
 - Project Presentation (.pptx)
 - Demo Video (.mp4)
 
+
+## Key Features
+- Automated vehicle entry and exit
+- Slot allocation using keypad authentication
+- Real-time parking slot availability display
+- Fire/gas detection using MQ-2 sensor
+- Emergency alert using buzzer, red LED, and relay
+- LCD-based user interface
+
 ## Hardware Used
 - Arduino Mega 2560
 - IR Sensors
@@ -27,4 +36,8 @@ Smart_Parking_Presentation.pptx
 - Relay Module
 - LEDs & Buzzer
 - Breadboard &  Jumpire Wires
+
+## Software Tools
+- Arduino IDE
+- Wokwi Simulator 
 
