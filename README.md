@@ -16,7 +16,9 @@ Smart_Parking_Presentation.pptx
 - Arduino Source Code (.ino)
 - Project Presentation (.pptx)
 - Demo Video (.mp4)
-
+- Project report (PDF)
+- IEEE conference paper (PDF)
+- Project image (.jpeg)
 
 ## Key Features
 - Automated vehicle entry and exit
